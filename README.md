@@ -240,3 +240,6 @@ This repository serves as the official landing page for Freeciv. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Freeciv today!**
+
+---
+**Last updated:** 2026-09-09 16:57:33 UTC
