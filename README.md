@@ -242,4 +242,4 @@ This repository serves as the official landing page for Freeciv. The software is
 **Get the most recent version of Freeciv today!**
 
 ---
-**Last updated:** 2026-09-12 22:03:04 UTC
+**Last updated:** 2026-09-13 00:31:29 UTC
